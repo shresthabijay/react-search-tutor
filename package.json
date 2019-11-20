@@ -1,0 +1,25 @@
+{
+  "name": "web-pairing-kit",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Toolkit for web pairing exercise.",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon server/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/getyourguide/web-pairing-kit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/getyourguide/web-pairing-kit/issues"
+  },
+  "homepage": "https://github.com/getyourguide/web-pairing-kit#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.4"
+  }
+}
