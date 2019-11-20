@@ -25,6 +25,7 @@ This repository provides you with a basic setup and a static JSON file containin
   - Turning on Do Not Disturb mode can be helpful during the course of the exercise :)
 - Clone this repository to your local machine
 - There is a server/index.js file with a minimal Express setup
+  - You can run this server with `npm run server` after performing an `npm install`
   - If you prefer to use another Node.js server, please install it and prepare a minimal setup ahead of time
 - Setup a simple development environment with your tools of choice
 - Some quick ways to get started:
@@ -32,3 +33,4 @@ This repository provides you with a basic setup and a static JSON file containin
     - `npx @vue/cli create search-app`
   - Using React CLI, run the following to start an app:
     - `npx create-react-app search-app`
+- You can choose to use a different framework, or no framework at all, but we expect you to be ready to start developing and not spend time on setting up an environment.
