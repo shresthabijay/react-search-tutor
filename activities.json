@@ -1,7 +1,7 @@
 {
    "tours":[
       {
-         "title":"German Tour: Parliament Quarter \u0026amp; Reichstag glass dome",
+         "title":"German Tour: Parliament Quarter & Reichstag glass dome",
          "price": "14",
          "currency": "$",
          "rating":"4.8",
@@ -15,7 +15,7 @@
          "isSpecialOffer":false
       },
       {
-         "title":"Berlin WelcomeCard: Transport, Discounts \u0026amp; Guide Book",
+         "title":"Berlin WelcomeCard: Transport, Discounts & Guide Book",
          "price": "10",
          "currency": "$",
          "rating":"4.6",
@@ -43,7 +43,7 @@
          "isSpecialOffer":false
       },
       {
-         "title":"German Tour: Reichstag with Plenary Chamber \u0026amp; Cuppola",
+         "title":"German Tour: Reichstag with Plenary Chamber & Cuppola",
          "price": "59",
          "currency": "$",
          "rating":"4.8",
@@ -64,7 +64,7 @@
          "isSpecialOffer":false
       },
       {
-         "title":"Reichstag: Rooftop Coffee Break at K\u00e4fer",
+         "title":"Reichstag: Rooftop Coffee Break at Käfer",
          "price": "50",
          "currency": "$",
          "rating":"4.6",
@@ -78,7 +78,7 @@
          "isSpecialOffer":true
       },
       {
-         "title":"German Tour: Reichstag with dome Chamber \u0026amp;",
+         "title":"German Tour: Reichstag with dome Chamber &",
          "price": "87",
          "currency": "$",
          "rating":"4.8",
