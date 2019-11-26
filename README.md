@@ -21,12 +21,13 @@ This repository provides you with a basic setup and a static JSON file containin
 ## What you should prepare ahead of time:
 
 - We'll expect you to share your screen while creating this application and talk us through what you're doing
-  - If you're already using Bluejeans, the screen sharing functionality is available
+  - Our video conferencing app support screen sharing
   - Turning on Do Not Disturb mode can be helpful during the course of the exercise :)
 - Clone this repository to your local machine
 - There is a server/index.js file with a minimal Express setup
   - You can run this server with `npm run server` after performing an `npm install`
-  - If you prefer to use another Node.js server, please install it and prepare a minimal setup ahead of time
+  - **If you prefer to use another Node.js server** (Koa, Hapi), please install it and prepare a minimal setup ahead of time
+  - **If you prefer to use another backend language** (Java, PHP, Ruby, etc), please prepare a basic setup with one endpoint ahead of time
 - Setup a simple development environment with your tools of choice
 - Some quick ways to get started:
   - Using vue-cli, run the following to start an app:
