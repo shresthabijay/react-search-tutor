@@ -1,3 +1,8 @@
+# Objective
+We will develop together a web application with the idea of getting to know your knowledge of different topics.
+
+**Please do not develop more than is expected on the section "What you should prepare ahead of time".**
+
 # Pairing exercise
 
 Create a web application that allows searching for activities. Think about the needs of a traveler that is looking for things to do in a destination. For example, a person visiting Berlin that is interested in things to do during their visit.
@@ -18,18 +23,19 @@ This repository provides you with a basic setup and a static JSON file containin
   - Please don't use creator apps or starter kits that setup a whole code structure for you. We want to see what you come up with.
   - We'd prefer to see actual CSS code (or a CSS in JS solution) rather than usage of a UI library.
 
-## What you should prepare ahead of time:
-
+## Interview requirements
 - We'll expect you to share your screen while creating this application and talk us through what you're doing
   - Our video conferencing app support screen sharing
   - Turning on Do Not Disturb mode can be helpful during the course of the exercise :)
+  
+## What you should prepare ahead of time:
 - Clone this repository to your local machine
 - There is a server/index.js file with a minimal Express setup
   - You can run this server with `npm run server` after performing an `npm install`
-  - **If you prefer to use another Node.js server** (Koa, Hapi), please install it and prepare a minimal setup ahead of time
-  - **If you prefer to use another backend language** (Java, PHP, Ruby, etc), please prepare a basic setup with one endpoint ahead of time
-- Setup a simple development environment with your tools of choice
-- Some quick ways to get started:
+  - **If you prefer to use another Node.js server** (Koa, Hapi), please install it and prepare a **minimal setup** ahead of time
+  - **If you prefer to use another backend language** (Java, PHP, Ruby, etc), please prepare a **basic setup** with one endpoint ahead of time
+- Setup a simple development environment with your tools of choice. Use the IDE of your preference.
+- Please include the basic Frontend structure using:
   - Using vue-cli, run the following to start an app:
     - `npx @vue/cli create search-app`
   - Using React CLI, run the following to start an app:
