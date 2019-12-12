@@ -5,16 +5,26 @@ We will develop together a web application with the idea of getting to know your
 
 # Pairing exercise
 
-Create a web application that allows searching for activities. Think about the needs of a traveler that is looking for things to do in a destination. For example, a person visiting Berlin that is interested in things to do during their visit.
+Create a web application that allows searching for activities.
+
+Think about the needs of a traveler that is looking for things to do in a destination.
+
+For example, a person visiting Berlin that is interested in things to do during their visit.
 
 This repository provides you with a basic setup and a static JSON file containing sample activity data.
 
 ## Product requirements:
 
 - At a minimum, we expect a search feature that lists activities based on user input.
-- You should build at least one API endpoint which your frontend application can use to get search results.
+- You should build at least one API endpoint which your frontend application can use to get data or search results.
 - Based on the provided data, you can add additional features which you think may be useful for travelers.
 - User experience matters. We value the delivered product as much as we value technologies used.
+
+If you'd like to build this step by step, you can follow this guidance:
+- Start by creating the API endpoint
+- Create a simple app which uses the endpoint to get data, search and display a list of activities
+- Improve the visual display of the app and search results
+- If time allows, add any additional features you think could be useful
 
 ## Technical requirements
 
