@@ -1,0 +1,19 @@
+:root {
+  box-sizing: border-box;
+}
+
+html {
+  padding: 0 4rem;
+}
+
+.range {
+  display: flex;
+}
+
+.range__input {
+  width: 60px;
+}
+
+.range__divider {
+  width: 20px;
+}
